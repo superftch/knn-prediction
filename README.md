@@ -265,10 +265,10 @@ new_features = ['nilai_olahraga', 'nilai_seni']
 ## 📄 License
 
 MIT License - silakan gunakan untuk tujuan pembelajaran dan komersial.
-
+<!-- 
 ## 👥 Tim Pengembang
 
-- **Developer**: [Your Name]
+- **Developer**: Ze
 - **Email**: [your.email@example.com]
 - **GitHub**: [your-github-username]
 
@@ -277,8 +277,8 @@ MIT License - silakan gunakan untuk tujuan pembelajaran dan komersial.
 Jika ada pertanyaan atau masalah:
 1. Buka issue di GitHub
 2. Email ke: [support.email@example.com]
-3. Dokumentasi lengkap: [wiki-link]
+3. Dokumentasi lengkap: [wiki-link] -->
 
----
+<!-- --- -->
 
-**Happy Coding! 🚀**
+<!-- **Happy Coding! 🚀** -->
