@@ -4,3 +4,7 @@ scikit-learn
 openai
 google-generativeai
 requests
+matplotlib
+uvicorn
+fastapi
+seaborn
